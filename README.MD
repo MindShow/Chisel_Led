@@ -14,5 +14,5 @@
 
 ## 说明
 
-    1. genbit.bat 可以将 Chisel 产生的 Verilog 文件添加至 Quartus 工程
-    2. Reset 信号高电平有效，与目前的硬件设计相反
+   genbit.bat 可以将 Chisel 产生的 Verilog 文件添加至 Quartus 工程
+
